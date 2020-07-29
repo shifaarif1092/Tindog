@@ -1,0 +1,103 @@
+#title{
+  background-color: #ff4c68;
+  color:#ffffff;
+
+}
+.container-fluid
+{
+  padding:5% 15%;
+}
+.t-image {
+  -webkit-transform:rotate(20deg);
+  -moz-transform: rotate(20deg);
+  -ms-transform: rotate(20deg);
+  -o-transform: rotate(20deg);
+  transform: rotate(20deg);
+  width:50%;
+  margin-left:20%;
+  margin-top:5%;
+  position:absolute;
+  right:30%;
+}
+body{
+  font-family:'Ubuntu';
+}
+h1
+{
+  font-family: 'Montserrat';
+  font-size:3rem;
+  line-height:1.5;
+}
+.download{
+  margin:5% 3% 3% 10%;
+}
+.navbar
+{
+  padding: 0 0 4.5rem;
+}
+.nav-link{
+  font-size:1.5rem;
+}
+.nav-item{
+  padding:0 18px;
+}
+.navbar-brand
+{
+  font-size:3rem;
+  font-weight:bold;
+}
+.awesome i{
+  color:#ff4c68;
+  margin:1rem;
+}
+.awesome div{
+  text-align:center;
+  margin:4rem 0;
+}
+.awesome i:hover{
+  color:red;
+}
+.awesome p{
+  opacity:0.7;
+}
+#testimonials,#press
+{
+
+  text-align:center;
+  background-color: #ff4c68;
+}
+.carousel-item
+{
+  padding:7% 15%;
+}
+
+h2
+{
+  font-family:'Montserrat';
+  line-height:1.5;
+  font-size:1.5rem;
+  color:#ffffff;
+}
+.timage
+{
+  width:30%;
+  border-radius:50%;
+  margin:20px;
+}
+#press img{
+  width:20%;
+  margin:20px 20px 50px;
+}
+#pricing{
+  padding:100px;
+  text-align:center;
+}
+.pcol
+{
+  padding:3% 2%;
+}
+#features{
+  padding:10%;
+  background-color:white;
+ position:relative;
+}
